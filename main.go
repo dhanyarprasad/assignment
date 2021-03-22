@@ -7,4 +7,5 @@ func main() {
 	fmt.Print("First commit")
 	fmt.Print("commit 2")
 	fmt.Print("commit-3")
+	fmt.Print("commit-4")
 }
